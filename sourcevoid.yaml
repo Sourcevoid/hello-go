@@ -1,0 +1,7 @@
+runtime: go
+
+build:
+  - ./build.bash
+
+start: ./go/src/app/server
+
