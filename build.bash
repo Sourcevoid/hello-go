@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Enter src
-cd go/src/app
+cd src/app
 
 # Fetch dependencies 
 go get
