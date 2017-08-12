@@ -3,5 +3,5 @@ runtime: go
 build:
   - ./build.bash
 
-start: ./go/src/app/server
+start: ./src/app/server
 
